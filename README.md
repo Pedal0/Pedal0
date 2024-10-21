@@ -13,7 +13,7 @@ My journey in tech has been driven by a love for coding and a curiosity for how 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedal0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="[https://random-memer.herokuapp.com/](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExendoMzBlcDRqYXpjemMxd3FzdmthZ2p2OW5vaG5vNDdzOWoxM2draSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pedal0&icon=2&color=12)](https://visitcount.itsvg.in)
