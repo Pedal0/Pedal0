@@ -21,4 +21,5 @@ I strive to create useful and innovative tools. My goal is to design solutions t
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExendoMzBlcDRqYXpjemMxd3FzdmthZ2p2OW5vaG5vNDdzOWoxM2draSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="512px"/>
 
 --
-[![](https://visitcount.itsvg.in/api?id=Pedal0&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Pedal0&icon=0&color=0)](https://visitcount.itsvg.in)
+
